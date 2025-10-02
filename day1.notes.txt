@@ -7,3 +7,6 @@ Steps to Run Selected Code in VS Code:
 Methods to Clear Terminal in VS Code
       simply press Ctrl + L (this works inside most shells like PowerShell, Command Prompt, and bash)
       In the terminal panel, look for a trash bin icon 🗑️ in the top-right corner → Click it to clear the terminal.
+
+
+https://medium.com/thetechieguys/solving-python-problems-data-types-operators-variables-bc8083638944
