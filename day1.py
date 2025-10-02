@@ -15,3 +15,7 @@ age@1=100                   #4
 print(age@1)
 #variable names cannot contain special characters like @, #, $, %, etc.
 
+my_var=3                    #5
+del my_var
+#we can delete a variable using del keyword
+
