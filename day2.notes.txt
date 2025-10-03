@@ -1,0 +1,2 @@
+hashable (immutable) items, (like tuple or string) 
+unhashable items (like lists and sets) 

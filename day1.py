@@ -19,3 +19,4 @@ my_var=3                    #5
 del my_var
 #we can delete a variable using del keyword
 
+
