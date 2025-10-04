@@ -1,0 +1,5 @@
+python is mainly used for backend development, where it handles server-side logic, databases, APIs, 
+and application processing.
+
+python can be used for frontend development in desktop applications (using libraries like Tkinter or PyQt), it is not 
+typically used for web frontend(browser based UI), which relies on HTML, CSS and JavaScript.

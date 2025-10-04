@@ -1,0 +1,9 @@
+Types of Python Operators
+Here's a list of different types of Python operators:
+
+1) Arithmetic Operators
+2) Assignment Operators
+3) Comparison Operators
+4) Logical Operators
+5) Bitwise Operators
+6) Special Operators
