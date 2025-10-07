@@ -1,0 +1,33 @@
+# Analyzing HelooWorldApp-AI Web App folders&files
+
+##requirement.txt
+lists the Python packages your project depends on so other developers, 
+CI systems, and deployment scripts can install the same dependencies 
+reproducibly.
+
+##Is Flask is a package/library?
+Yes — Flask is a Python package (a library) and specifically a 
+lightweight web microframework.
+
+##To develop a web application in realtime, is framework is required compulsory ?
+No — a framework is not strictly required, but in almost every real 
+project a framework or library is strongly recommended. Frameworks save
+ you time and avoid many pitfalls (routing, security, concurrency, connection 
+ management). For realtime features (WebSockets, server push), use an
+  async-capable framework or a dedicated realtime library.
+
+#Is packages & frameworks are different?
+yes — they’re related but different.
+- Package (library)
+A reusable collection of code distributed as a unit (usually on PyPI for Python).
+You import and call its functions/classes.
+Example: requests (HTTP client), pandas (data frames), Jinja2 (templating).
+
+- Framework
+A higher-level architecture that provides structure and controls the flow of
+ your application. You write components that the framework calls (this is 
+ called "inversion of control").
+Frameworks are typically built from many packages and provide routing,
+ lifecycle, conventions and integration points.
+Example: Flask (microframework), Django (full-stack framework), 
+FastAPI (ASGI web framework).
