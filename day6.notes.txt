@@ -1,0 +1,29 @@
+To learn Python with real-time projects:
+- Start with basic Python tutorials on platforms like Microsoft learn
+- Choose beginner projects: calculator, to-do app, web-scraper and build them step by step
+- progress to intermediate projects (e.g., REST API with Flask, data analysis with Pandas, automation Scripts)
+
+- Use Github to find and contribute to open-source python projects
+- Apply your skills to real-world problems, such as building a web app, automating tasks or analyzing data.
+
+
+
+MEAN and MERN are popular technology stacks  for building web applications:
+MEAN:
+  MongoDB(database)
+  Express.js(backend framework)
+  Angular(Frontend framework)
+  Node.js(runtime environment)
+
+MERN:
+  MongoDB(database)
+  Express.js(backend framework)
+  React(Frontend library)
+  Node.js(runtime environment)
+
+
+what is your primary area of development?
+ Backend(e.g., Python,.Net, Java)
+ Frontend(e.g.,Angular,React,Vue)
+
+
